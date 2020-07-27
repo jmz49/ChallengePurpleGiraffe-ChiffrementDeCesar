@@ -43,7 +43,7 @@ __________________________________________________________________________
 
 ❌ LES SAUTS DE LIGNES et CARACTÈRES SYSTÊME NON TRAITÉS (EOF, CR, ...)
 
-❌ Le programme n'aime pas les corrections apportées dans un message saisi. En fait le clavier enregistre les retours arrières, les effacements, les surcharges, etc,. Du coup le message est faussé dans le buffer de saisi même si visuellement il paraît correct. Si ça devient incohérent, faite STOP, RUN, puis recommencez vos codages, décodages propremen.
+❌ Le programme n'aime pas les corrections apportées dans un message saisi. En fait le clavier enregistre les retours arrières, les effacements, les surcharges, etc,. Du coup le message est faussé dans le buffer de saisi même si visuellement il paraît correct. Si ça devient incohérent, faite STOP, RUN, puis recommencez vos codages, décodages proprement.
 __________________________________________________________________________
 
  ✅ EXEMPLE DE MESSAGE A COPIER-COLLER
